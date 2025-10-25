@@ -1,0 +1,12 @@
+/Users/prathamkailasiya/Downloads/AppsianHelper/assignment2-mini-project-manager/backend/ProjectManagerApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+/Users/prathamkailasiya/Downloads/AppsianHelper/assignment2-mini-project-manager/backend/ProjectManagerApi.csproj : warning NU1902: Package 'System.IdentityModel.Tokens.Jwt' 7.0.3 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-59j7-ghrg-fj52
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5001
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Production
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: /Users/prathamkailasiya/Downloads/AppsianHelper/assignment2-mini-project-manager/backend
+info: Microsoft.Hosting.Lifetime[0]
+      Application is shutting down...
