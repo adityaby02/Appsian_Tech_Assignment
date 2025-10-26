@@ -108,7 +108,7 @@ Advanced project management with user authentication and Entity Framework.
 
 ```bash
 # Navigate to Assignment 2
-cd assignment2-mini-project-manager
+cd "A2 Mini Project Manager"
 
 # Backend Setup & Run
 cd backend
@@ -179,7 +179,7 @@ Enhanced project manager with intelligent task scheduling and dependency managem
 
 ```bash
 # Navigate to Assignment 3
-cd assignment3-smart-scheduler-api
+cd "A3 Smart Scheduler API"
 
 # Backend Setup & Run
 cd backend
