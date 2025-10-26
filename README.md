@@ -35,7 +35,7 @@ dotnet --version  # Should show 8.x.x
 
 ---
 
-## Assignment 1: Basic Task Manager (10 Credits)
+## Assignment 1: Basic Task Manager
 
 A simple CRUD task manager with in-memory storage.
 
@@ -88,7 +88,7 @@ DELETE /api/tasks/{id}      # Delete task
 
 ---
 
-## Assignment 2: Mini Project Manager (20 Credits)
+## Assignment 2: Mini Project Manager
 
 Advanced project management with user authentication and Entity Framework.
 
@@ -159,7 +159,7 @@ Name: Test User
 
 ---
 
-## Assignment 3: Smart Scheduler API (30 Credits)
+## Assignment 3: Smart Scheduler API
 
 Enhanced project manager with intelligent task scheduling and dependency management.
 
