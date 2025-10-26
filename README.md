@@ -395,18 +395,6 @@ curl http://localhost:5001/api/auth/register
 curl http://localhost:5002/api/v1/projects/sample/schedule/sample
 ```
 
----
-
-## Assignment Completion Summary
-
-| Assignment | Credits | Features | Status |
-|------------|---------|----------|--------|
-| Basic Task Manager | 10 | All required + enhancements | **COMPLETE** |
-| Mini Project Manager | 20 | All required + mobile responsive | **COMPLETE** |  
-| Smart Scheduler API | 30 | All required + advanced algorithms | **COMPLETE** |
-| **Total** | **60** | **All deliverables met** | **READY FOR DEMO** |
-
----
 
 ## Support Information
 
