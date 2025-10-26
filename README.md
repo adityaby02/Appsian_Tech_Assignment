@@ -5,10 +5,10 @@ This repository contains three progressively advanced task management applicatio
 ## Project Structure
 
 ```
-AppsianHelper/
-├── assignment1-basic-task-manager/     # 10 credits - Basic Task Manager
-├── assignment2-mini-project-manager/   # 20 credits - Project Manager with Auth
-├── assignment3-smart-scheduler-api/    # 30 credits - Smart Scheduler Enhancement
+Appsian_Tech_Assignment/
+├── A1 Basic Task Manager/     # 10 credits - Basic Task Manager
+├── A2 Mini Project Manager/   # 20 credits - Project Manager with Auth
+├── A3 Smart Scheduler API/    # 30 credits - Smart Scheduler Enhancement
 └── README.md                          # This file
 ```
 
@@ -23,7 +23,7 @@ AppsianHelper/
 
 ```bash
 # Clone and navigate to the repository
-cd /Users/Downloads/AppsianHelper
+cd /Users/Downloads/Appsian_Tech_Assignment
 
 # Install .NET 8 (if not already installed)
 # brew install --cask dotnet  # macOS
@@ -55,7 +55,7 @@ A simple CRUD task manager with in-memory storage.
 
 ```bash
 # Navigate to Assignment 1
-cd assignment1-basic-task-manager
+cd "A1 Basic Task Manager"
 
 # Backend Setup & Run
 cd backend
